@@ -1,0 +1,8 @@
+Toronto is part of province of Ontario in Canada. it is on north shores of lake Ontario, part of great lakes. It covers 630.2 km� and 
+is the fourth largest city in North America.
+
+I chose this dataset because this is the city where I live and I am quite familiar with all aspects of living in Toronto. I think this
+helps with auditing data and finding flaws. For instance I know that when people want to search for information on the City of Oshawa,
+which is close to Toronto, they don't search for City of Oshawa. They just search for Oshawa. I know the language and different cultures
+that are prevelant in the city, therefore if some information extracted from the element in the dataset does not correspond to what I
+know about the city I can ditect it and find out if the dataset needs cleaning up or changing for more efficient retrieval of information. 
