@@ -1,4 +1,7 @@
-Toronto is part of province of Ontario in Canada. it is on north shores of lake Ontario, part of great lakes. It covers 630.2 kmï¿½ and 
+This is the address to the link where I got the dataset for Toronto:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/toronto_canada.osm.pbf
+
+Toronto is part of province of Ontario in Canada. it is on north shores of lake Ontario, part of great lakes. It covers 630.2 km² and 
 is the fourth largest city in North America.
 
 I chose this dataset because this is the city where I live and I am quite familiar with all aspects of living in Toronto. I think this
